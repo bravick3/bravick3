@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🚧 Currently working on <strong>a game...**</strong><br>💡  Learning web dev</p>
+<p align="left">🚧 Currently working on <strong>a game...</strong><br>💡  Learning web dev</p>
 
 ###
 
