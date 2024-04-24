@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">*Care about what other people think and you will always be their prisoner* ~Lao Tzu</p>
+<p align="left">_Care about what other people think and you will always be their prisoner_ ~Lao Tzu</p>
 
 ###
 
