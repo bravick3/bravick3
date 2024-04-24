@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">__Care about what other people think and you will always be their prisoner__ ~Lao Tzu</p>
+<p align="left"><em>Care about what other people think and you will always be their prisoner</em> ~Lao Tzu</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🚧 Currently working on **a game...**<br>💡  Learning web dev</p>
+<p align="left">🚧 Currently working on <strong>a game...**</strong><br>💡  Learning web dev</p>
 
 ###
 
