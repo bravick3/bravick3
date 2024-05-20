@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🚧 Currently working on <strong>an ABOUT ME page</strong><br>💡  Learning web dev</p>
+<p align="left">🚧 Currently working on <strong>my ABOUT ME page</strong><br>💡  Learning web dev</p>
 
 ###
 
