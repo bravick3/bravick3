@@ -11,7 +11,7 @@
 ###
 
 <p align="left">🚧 Working on <strong> ABOUT ME page</strong></p>
-<p align="left">💡 Currently learning <strong>web dev</strong></p>
+<p align="left">💡 Currently learning <strong>JavaScript  React  Vite</strong></p>
 
 ###
 
