@@ -10,12 +10,13 @@
 
 ###
 
-<p align="left">🚧 Working on <strong> ABOUT ME page</strong></p>
-<p align="left">💡 Currently learning <strong>JavaScript  React  Vite</strong></p>
+<p align="left">🚧 Working on <strong>[Rummikub](https://rummikub.com/play-online/)</strong></p>
+<p align="left">💡 Currently learning <strong>Java Spring & Docker</strong></p>
+<p align="left">🎯 Next projects <strong>JavaScript React Vite & CPP</strong></p>
 
 ###
 
-<h2 align="left">Using those</h2>
+<h2 align="left">Tools I'm famiriar with</h2>
 
 ###
 
