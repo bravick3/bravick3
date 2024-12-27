@@ -11,7 +11,7 @@
 ###
 
 <p align="left">🚧 Working on <a href="https://rummikub.com/play-online/"><strong>Rummikub</strong></a></p>
-<p align="left">💡 Currently learning <strong>Java Spring & Docker</strong></p>
+<p align="left">💡 Currently learning <strong><a href="https://spring.io/">Java Spring</a> & <a href="https://www.docker.com/">Docker</a></strong></p>
 <p align="left">🎯 Next projects <strong>JavaScript React Vite & CPP</strong></p>
 
 ###
