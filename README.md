@@ -16,7 +16,7 @@
 
 ###
 
-<h2 align="left">Tools I'm famiriar with</h2>
+<h2 align="left">Tools I use</h2>
 
 ###
 
