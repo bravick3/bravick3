@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🚧 Working on <strong>[Rummikub](https://rummikub.com/play-online/)</strong></p>
+<p align="left">🚧 Working on <strong>(Rummikub)[https://rummikub.com/play-online/]</strong></p>
 <p align="left">💡 Currently learning <strong>Java Spring & Docker</strong></p>
 <p align="left">🎯 Next projects <strong>JavaScript React Vite & CPP</strong></p>
 
