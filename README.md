@@ -10,11 +10,8 @@
 
 ###
 
-<p align="left">:)></p>
+<p align="left">:)</p>
 
-###
-
-<h2 align="left">Languages</h2>
 
 ###
 
