@@ -2,19 +2,6 @@
 
 ###
 
-<p align="left"><em>Care about what other people think and you will always be their prisoner</em> ~Lao Tzu</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">:)</p>
-
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="34" alt="java logo"  />
   <img width="12" />
